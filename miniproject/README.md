@@ -36,6 +36,6 @@ Follow these steps to set up and run the project on your own system:
 
 ### ✅ 1. Clone the Repository
 
->>git clone https://github.com/venkatakoteswarao/flipkart-review-analyzer.git
->>cd flipkart-review-analyzer
->> after it run the command streamlit run sv.py
+- git clone https://github.com/venkatakoteswarao/flipkart-review-analyzer.git
+- cd flipkart-review-analyzer
+- after it run the command streamlit run sv.py
